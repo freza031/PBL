@@ -1,8 +1,8 @@
-<footer class="w-full bg-[#495867] flex-shrink-0">
+<footer class="w-full bg-[#D4A373] flex-shrink-0">
     <div class="flex flex-row px-10 py-4 justify-between align-middle">
         <div>
-            <p class="text-[#FE5F55] font-bold font-roboto-condensed text-xl">
-                &copy; <script>document.write(new Date().getFullYear())</script> Oncom&trade;. All Rights Reserved.
+            <p class="text-[#E9EDC9] font-bold font-roboto-condensed text-xl">
+                &copy; <script>document.write(new Date().getFullYear())</script> Cake it&trade;.
             </p>
         </div>
         <div class="flex flex-row gap-10">

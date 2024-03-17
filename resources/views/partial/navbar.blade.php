@@ -1,7 +1,7 @@
 <nav class="sticky top-0 z-10">
-    <div class="flex flex-row justify-between px-10 py-2 bg-[#577399]">
-        <div class="w-64">
-            <a href="{{ asset('/') }}"><img class="w-100" src="{{ asset('img/logonav.png')}}" alt=""></a>
+    <div class="flex flex-row justify-between px-10 py-2 bg-[#CCD5AE]">
+        <div class="w-64 flex justify-center items-center">
+            <a href="{{ asset('/') }}"><img class="w-20" src="{{ asset('img/logonav.png')}}" alt=""></a>
         </div>
         <div class="w-50 flex flex-row gap-7 align-middle justify-center px-10 py-3">
             <a href="#">
